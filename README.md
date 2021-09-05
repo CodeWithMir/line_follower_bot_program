@@ -33,6 +33,7 @@ Circuit connections for IR Proximity Sensors:
 
     The load wires of the IR sensors are connected to pin 8, 9 and 10 as shown in the schematic.
 *Component 2 :L293D motor driver*
+
 ![L293D](https://github.com/CodeWithMir/important-image-for-project/blob/main/L293D-Motor-Driver-Module-for-Arduino-L293D-Expansion-Board.jpg)
 
 L293D ic Pin Configuration
