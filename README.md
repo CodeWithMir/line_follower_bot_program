@@ -4,6 +4,9 @@ Arduino Based Line Follower Robot using PID Algorithm
 ## Demo
 
 ![demo 1](https://github.com/CodeWithMir/important-image-for-project/blob/main/giphy%20(1).gif)
+![demo ](https://github.com/CodeWithMir/important-image-for-project/blob/main/WhatsApp%20Image%202021-09-02%20at%201.42.21%20PM.jpeg)
+![demo ](https://github.com/CodeWithMir/important-image-for-project/blob/main/WhatsApp%20Image%202021-09-02%20at%201.42.21%20PM%20(1).jpeg)
+
 
 
 ## All the electronic parts necessary to build a line-follower robot:
